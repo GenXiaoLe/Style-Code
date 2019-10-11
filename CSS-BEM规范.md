@@ -35,7 +35,7 @@
   
 ```css
 .button--big { /* styles */ }
-.search__default { /* styles */ }
+.search--default { /* styles */ }
 ``` 
 
 
